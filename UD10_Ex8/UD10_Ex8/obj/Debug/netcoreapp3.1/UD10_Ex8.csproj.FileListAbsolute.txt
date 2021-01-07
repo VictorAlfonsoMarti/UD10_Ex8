@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\bin\Debug\netcoreapp3.1\UD10_Ex8.exe
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\bin\Debug\netcoreapp3.1\UD10_Ex8.deps.json
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\bin\Debug\netcoreapp3.1\UD10_Ex8.runtimeconfig.json
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\bin\Debug\netcoreapp3.1\UD10_Ex8.runtimeconfig.dev.json
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\bin\Debug\netcoreapp3.1\UD10_Ex8.dll
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\bin\Debug\netcoreapp3.1\UD10_Ex8.pdb
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\obj\Debug\netcoreapp3.1\UD10_Ex8.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\obj\Debug\netcoreapp3.1\UD10_Ex8.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\obj\Debug\netcoreapp3.1\UD10_Ex8.AssemblyInfo.cs
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\obj\Debug\netcoreapp3.1\UD10_Ex8.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\obj\Debug\netcoreapp3.1\UD10_Ex8.dll
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\obj\Debug\netcoreapp3.1\UD10_Ex8.pdb
+C:\Users\victo\source\repos\UD10_Ex8\UD10_Ex8\obj\Debug\netcoreapp3.1\UD10_Ex8.genruntimeconfig.cache
